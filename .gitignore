@@ -1,3 +1,5 @@
-jobs.csv
 geckodriver.log
 chromedriver.exe
+
+*.csv
+*.csv.bak
